@@ -1,8 +1,8 @@
 # 📘 Comprehensive Report on Generative AI and Large Language Models (LLMs)
 
 ## 👤 Prepared by
-**Aditya S**  
-**212223040007** 
+**Santhosh Kumar B**  
+**212223060249** 
 
 ---
 
